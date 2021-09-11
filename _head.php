@@ -7,3 +7,4 @@
     <meta http-equiv="x-ua-compatible" content="ie=edge" />
     <link rel="icon" href="img/logo/favicon.png" type="image/x-icon" />
     <title>HESASOFT[ Em Construção!]</title>
+</head>
